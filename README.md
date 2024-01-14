@@ -1,3 +1,2 @@
-# hello-world
-my first repository
-this is a test for myself
+# Error Mitigation
+Error mitigation methods for quantum computation.
